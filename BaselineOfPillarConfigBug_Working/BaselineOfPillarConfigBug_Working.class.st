@@ -15,7 +15,7 @@ BaselineOfPillarConfigBug_Working >> baseline: spec [
 		do: [
 			"Packages"
 			spec
-				package: 'PillarConfigBug_Working'.
+				package: 'PillarConfigBug'.
 			"Groups"
 			spec
 				group: 'Core' with: #('PillarConfigBug')
