@@ -1,8 +1,5 @@
 Class {
-	#name : #PBEConfig,
+	#name : #ThisIsTheWorkingVersion,
 	#superclass : #Object,
-	#instVars : [
-		'propertyDictionary'
-	],
 	#category : #PillarConfigBug
 }
